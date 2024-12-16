@@ -146,7 +146,7 @@ Users must include the following text in any Acknowledgements:
 
 ## Changelog
 
-*October 2024*
+*December 2024*
 
 - Make SandD dataset available for data requests
 

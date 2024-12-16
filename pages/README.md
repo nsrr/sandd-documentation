@@ -40,7 +40,7 @@ Initial Baseline Assessment (Session 1)
 </ul>
 
 Follow up visits 2 through 5, to be scheduled at ~ 6-month intervals (Sessions 2 through 5)
-
+<br><br>
 <ul>
 <li>Questionnaires (participant and parent)
 <ul>
@@ -59,7 +59,7 @@ Follow up visits 2 through 5, to be scheduled at ~ 6-month intervals (Sessions 2
 </ul>
 
 Final follow up visit to be scheduled 6 months after visit 5 (Session 6)
-
+<br><br>
 <ul>
 <li>Questionnaires (participant and parent)
 <ul>

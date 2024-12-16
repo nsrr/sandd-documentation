@@ -8,10 +8,12 @@ Study enrollment began in 2002 with the last follow up visits occurring in 2007.
   <summary>Full overview of data collection at each assessment visit (click to expand):</summary>
 
 Data collection at each assessment visit (Session). 
-
+<br><br>
 Initial Baseline Assessment (Session 1)
-- Enrollment 
-- Questionnaires (participant and parent)
+<br><br>
+<ul>
+<li>Enrollment 
+<li>Questionnaires (participant and parent)
   - Demographics
   - Family history of ETOH disorder (at Visit 1 only)
   - Questionnaires related to participant ETOH and drug use
@@ -19,16 +21,17 @@ Initial Baseline Assessment (Session 1)
   - Morning/eveningness questionnaires (Smith and Owl)
   - Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
   - Self-assessment of pubertal status [PDS]
-- Tanner Staging 
-- Neuropsychological testing
+<li>Tanner Staging 
+<li>Neuropsychological testing
   - Rey – Osteirreth
   - Stroop Word Color Test
-- Actigraphy (with daily sleep diary and call-in logs as corroboration)
-- Saliva collection for DLMO assessment
+<li>Actigraphy (with daily sleep diary and call-in logs as corroboration)
+<li>Saliva collection for DLMO assessment
   - Mood and sleepiness scales
-- Polysomnography
+<li>Polysomnography
   - MSLT
   - Mood and sleepiness scales administered during in-lab stay
+</ul>
 
 Follow up visits 2 through 5, to be scheduled at ~ 6-month intervals (Sessions 2 through 5)
 

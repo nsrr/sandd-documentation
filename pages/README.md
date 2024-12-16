@@ -14,23 +14,31 @@ Initial Baseline Assessment (Session 1)
 <ul>
 <li>Enrollment 
 <li>Questionnaires (participant and parent)
-  - Demographics
-  - Family history of ETOH disorder (at Visit 1 only)
-  - Questionnaires related to participant ETOH and drug use
-  - Sleep/wake patterns
-  - Morning/eveningness questionnaires (Smith and Owl)
-  - Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
-  - Self-assessment of pubertal status [PDS]
+<ul>
+  <li>Demographics
+  <li>Family history of ETOH disorder (at Visit 1 only)
+  <li>Questionnaires related to participant ETOH and drug use
+  <li>Sleep/wake patterns
+  <li>Morning/eveningness questionnaires (Smith and Owl)
+  <li>Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
+  <li>Self-assessment of pubertal status [PDS]
+</ul>
 <li>Tanner Staging 
 <li>Neuropsychological testing
-  - Rey – Osteirreth
-  - Stroop Word Color Test
+<ul>
+  <li>Rey – Osteirreth
+  <li>Stroop Word Color Test
+</ul>
 <li>Actigraphy (with daily sleep diary and call-in logs as corroboration)
 <li>Saliva collection for DLMO assessment
-  - Mood and sleepiness scales
+<ul>
+  <li>Mood and sleepiness scales
+</ul>
 <li>Polysomnography
-  - MSLT
-  - Mood and sleepiness scales administered during in-lab stay
+<ul>
+  <li>MSLT
+  <li>Mood and sleepiness scales administered during in-lab stay
+</ul>
 </ul>
 
 Follow up visits 2 through 5, to be scheduled at ~ 6-month intervals (Sessions 2 through 5)

@@ -6,8 +6,6 @@ Study enrollment began in 2002 with the last follow up visits occurring in 2007.
 
 <details>
   <summary>Full overview of data collection at each assessment visit (click to expand):</summary>
-
-Data collection at each assessment visit (Session). 
 <br><br>
 Initial Baseline Assessment (Session 1)
 <br><br>
@@ -43,36 +41,52 @@ Initial Baseline Assessment (Session 1)
 
 Follow up visits 2 through 5, to be scheduled at ~ 6-month intervals (Sessions 2 through 5)
 
-- Questionnaires (participant and parent)
-  - Questionnaires related to participant ETOH and drug use
-  - Sleep/wake patterns
-  - Morning/eveningness questionnaires (Smith and Owl)
-  - Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
-  - Self-assessment of pubertal status [PDS]
-- Tanner Staging 
-- Actigraphy (with daily sleep diary and call-in logs as corroboration)
-- Saliva collection for DLMO assessment
-  - Mood and sleepiness scales
+<ul>
+<li>Questionnaires (participant and parent)
+<ul>
+  <li>Questionnaires related to participant ETOH and drug use
+  <li>Sleep/wake patterns
+  <li>Morning/eveningness questionnaires (Smith and Owl)
+  <li>Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
+  <li>Self-assessment of pubertal status [PDS]
+</ul>
+<li>Tanner Staging 
+<li>Actigraphy (with daily sleep diary and call-in logs as corroboration)
+<li>Saliva collection for DLMO assessment
+<ul>
+  <li>Mood and sleepiness scales
+</ul>
+</ul>
 
 Final follow up visit to be scheduled 6 months after visit 5 (Session 6)
 
-- Questionnaires (participant and parent)
-  - Demographics
-  - Questionnaires related to participant ETOH and drug use
-  - Sleep/wake patterns
-  - Morning/eveningness questionnaires (Smith and Owl)
-  - Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
-  - Self-assessment of pubertal status [PDS]
-- Tanner Staging 
-- Neuropsychological testing
-  - Rey – Osteirreth
-  - Stroop Word Color Test
-- Actigraphy (with daily sleep diary and call-in logs as corroboration)
-- Saliva collection for DLMO assessment
-  - Mood and sleepiness scales
-- Polysomnography
-  - MSLT
-  - Mood and sleepiness scales administered during in-lab stay
+<ul>
+<li>Questionnaires (participant and parent)
+<ul>
+  <li>Demographics
+  <li>Questionnaires related to participant ETOH and drug use
+  <li>Sleep/wake patterns
+  <li>Morning/eveningness questionnaires (Smith and Owl)
+  <li>Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
+  <li>Self-assessment of pubertal status [PDS]
+</ul>
+<li>Tanner Staging 
+<li>Neuropsychological testing
+<ul>
+  <li>Rey – Osteirreth
+  <li>Stroop Word Color Test
+</ul>
+<li>Actigraphy (with daily sleep diary and call-in logs as corroboration)
+<li>Saliva collection for DLMO assessment
+<ul>
+  <li>Mood and sleepiness scales
+</ul>
+<li>Polysomnography
+<ul>
+  <li>MSLT
+  <li>Mood and sleepiness scales administered during in-lab stay
+</ul>
+</ul>
 
 </details>
 

@@ -1,50 +1,111 @@
 ## About
 
-The Sleep and Development (SandD) study aimed to examine how personal alcohol experience and/or family history of alcohol abuse or dependence are related to sleep, biological rhythms, performance, and mood. It included cross-sectional and longitudinal evaluations of sleep, circadian timing, and alcohol use in young people with and without parental history of alcohol abuse/dependence and with varying amounts of alcohol experience.
+The Alcohol, Sleep, and Circadian Rhythms in Young Humans Study [Sleep and Development (SandD) study] aimed to examine how personal alcohol experience and/or family history of alcohol abuse or dependence are related to sleep, biological rhythms, performance, and mood. It included cross-sectional and longitudinal evaluations of sleep, circadian timing, and alcohol use in young people with and without parental history of alcohol abuse/dependence and with varying amounts of alcohol experience. The study was sponsored by the National Institute on Alcohol Abuse and Alcoholism (5R01AA013252).
 
-To date, there have been 3 waves of data collection. The first wave was collected at the baseline visit, the second collection was at the follow-ups (6 months to 2 years), and the last collection wave was at the 2.5-year final visit. During these visits, various questionnaires were given to participants during the consenting period, orientation, saliva collection night, and in-lab visits. 
+Study enrollment began in 2002 with the last follow up visits occurring in 2007. Three age groups were enrolled: participants ages 9 and 10; participants ages 15 and 16; participants ages 21 and 22. Participants with and without a parental history of alcohol use disorder were enrolled into each age group. The older cohort participants (ages 21 and 22) completed a baseline assessment visit (Session 1) only. The younger age cohorts (ages 9 & 10 and ages 15 & 16) also completed a baseline visit, and then follow up visits every 6 months (Sessions 2 through 6) with their last collection at the 2.5-year final follow up visit (Session 6). Not all participants were able to complete all the scheduled follow up assessments. Various questionnaires were given to participants at the baseline consenting session, orientation, saliva collection night, follow up, and in-lab visits.  For up to 2 weeks prior to their saliva collection night, participants followed self-selected sleep schedules with their sleep and wake monitored via actigraphy and corroborated by daily diary completion and phone calls to the lab. 
+
+<details>
+  <summary>Full overview of data collection at each assessment visit (click to expand):</summary>
+
+Data collection at each assessment visit (Session). 
+
+Initial Baseline Assessment (Session 1)
+- Enrollment 
+- Questionnaires (participant and parent)
+  - Demographics
+  - Family history of ETOH disorder (at Visit 1 only)
+  - Questionnaires related to participant ETOH and drug use
+  - Sleep/wake patterns
+  - Morning/eveningness questionnaires (Smith and Owl)
+  - Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
+  - Self-assessment of pubertal status [PDS]
+- Tanner Staging 
+- Neuropsychological testing
+  - Rey – Osteirreth
+  - Stroop Word Color Test
+- Actigraphy (with daily sleep diary and call-in logs as corroboration)
+- Saliva collection for DLMO assessment
+  - Mood and sleepiness scales
+- Polysomnography
+  - MSLT
+  - Mood and sleepiness scales administered during in-lab stay
+
+Follow up visits 2 through 5, to be scheduled at ~ 6-month intervals (Sessions 2 through 5)
+
+- Questionnaires (participant and parent)
+  - Questionnaires related to participant ETOH and drug use
+  - Sleep/wake patterns
+  - Morning/eveningness questionnaires (Smith and Owl)
+  - Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
+  - Self-assessment of pubertal status [PDS]
+- Tanner Staging 
+- Actigraphy (with daily sleep diary and call-in logs as corroboration)
+- Saliva collection for DLMO assessment
+  - Mood and sleepiness scales
+
+Final follow up visit to be scheduled 6 months after visit 5 (Session 6)
+
+- Questionnaires (participant and parent)
+  - Demographics
+  - Questionnaires related to participant ETOH and drug use
+  - Sleep/wake patterns
+  - Morning/eveningness questionnaires (Smith and Owl)
+  - Mood and other psychological assessments including: ADI; BDI; CBCL/YSR; Rutter; CESD; BDI-Y; CLES-parent and student; RCMAS; TLFB
+  - Self-assessment of pubertal status [PDS]
+- Tanner Staging 
+- Neuropsychological testing
+  - Rey – Osteirreth
+  - Stroop Word Color Test
+- Actigraphy (with daily sleep diary and call-in logs as corroboration)
+- Saliva collection for DLMO assessment
+  - Mood and sleepiness scales
+- Polysomnography
+  - MSLT
+  - Mood and sleepiness scales administered during in-lab stay
+
+</details>
 
 ## Methods
 
 ### Actigraphy collection
 
-At each assessment, participants wore an actigraph on their nondominant wrist (Mini-motionlogger, Ambulatory Monitoring, Inc., Ardsley, NY, USA) and kept a daily sleep diary in which they documented their sleep pattern. This monitoring occurred for at least one week before coming to the laboratory to measure the salivary dim light melatonin onset (DLMO) phase on a weekday evening. Participants were free to select their sleep times, and they were instructed to sleep at home alone and not remain awake all night. Activity data were collected in 1-minute epochs using a Zero-Crossing Mode (ZCM) and filter setting 18 (the manufacturer’s setting for frequency bandpass of 2 to 3 Hz). Further verification of bedtimes and wake-up times were provided with twice-daily telephone calls to the laboratory’s time-stamped answering machine, immediately before going to bed and immediately after waking.
+At each assessment Session, participants wore an actigraph on their nondominant wrist (Mini-motionlogger, Ambulatory Monitoring, Inc., Ardsley, NY, USA) and kept a daily sleep diary in which they documented their sleep pattern. This monitoring occurred for at least one week before coming to the laboratory on a weekday evening to measure the salivary dim light melatonin onset (DLMO) phase. During the at home monitoring component, participants were free to select their sleep schedules, and they were instructed to sleep at home alone and not remain awake all night. Activity data were collected in 1-minute epochs using a Zero-Crossing Mode (ZCM) and filter setting 18 (the manufacturer's setting for frequency bandpass of 2 to 3 Hz). Participants completed daily sleep diaries to record their sleep and wake times; further verification of bedtimes and wake-up times were provided with twice-daily telephone calls to the laboratory's time-stamped answering machine, immediately before going to bed and immediately after waking.
 
 ### Actigraphy scoring
 
-Scoring was completed manually by scorers using the actigraph file, diary, call-in log, questionnaires, scoring sheets, and record summary. Actigraphic sleep data were analzyed using the Action-W2 software (version 2.3.20, Ambulatory Monitoring, Inc., Ardsley, NY, USA) to estimate sleep/wake using the validated "Sadeh" algorithm. Each sleep episode was inspected within a scoring interval spanning 15-minutes before participants reported trying to fall asleep to 15-minutes after reported wake-up time on their daily sleep diary.
+Scoring was completed manually by scorers using the actigraph file, diary, call-in log, questionnaires, scoring sheets, and record summary following guidelines set by the lab and outlined in the scoring manual by Christine Acebo, PhD, lab research collaborator and former Associate Director. Actigraphic sleep data were analyzed using the Action-W2 software (version 2.3.20, Ambulatory Monitoring, Inc., Ardsley, NY, USA) to estimate sleep/wake with the validated "Sadeh" algorithm. Each sleep episode was inspected within a scoring interval spanning 15-minutes before participants reported trying to fall asleep until 15-minutes after reported wake-up time on their daily sleep diary.
 
-- Sleep Onset: The first minute of at least 3 consecutive minutes of sleep occurring after 15 minutes before the reported bed time or tried to fall asleep time, whichever one works. (E.P. Bradley Hospital Sleep Lab).
-- Sleep Offset: The last minute of at least 5 consecutive minutes of sleep occurring before 15 minutes after the reported wake-up time or get out of bed time, whichever one works. (E.P. Bradley Hospital Sleep Lab).
+- Sleep Onset: The first minute of at least 3 consecutive minutes of sleep occurring after 15 minutes before the diary reported bedtime or tried to fall asleep time, whichever data were reliable (following Sadeh scoring rules outlined in the E.P. Bradley Hospital Sleep Lab actigraphy manual).
+- Sleep Offset: The last minute of at least 5 consecutive minutes of sleep occurring before 15 minutes after the reported wake-up time or get out of bedtime, whichever data were reliable. (E.P. Bradley Hospital Sleep Lab).
 - Sleep Minutes: The minutes of the sleep interval scored as sleep.
 - Nap Rule: If a subject reports a nap that ends within 60 minutes of their reported bedtime and/or begins within 60 minutes of their reported wake (or out of bed) time, the nap(s) should be included (scored) as part of the main sleep interval. For clarification: <59 minutes, apply nap rule, 60+ minutes, do not apply nap rule.
 
 ### Questionnaires
 
-From 2002 to 2007, there were 3 total waves of questionnaires that participants were expected to complete. The first wave was collected at the baseline visit, the second collection was at the follow-ups (6 months to 2 years), and the last wave was at the 2.5 year final visit. During the baseline visit, forms were given to the participant during the consenting period, orientation, saliva collection night, and in-lab. Baseline forms included: TLFB (both consenting and in-lab), Sleep Questionnaire Assessment of Wakefulness (SQAW), Substance Use Questionnaire, Alcohol and Drug Inventory, Drunkenness Questionnaire (adult and regular forms), Food Preference List, What I am Like, Student Coddington, Horne/Ostberg/Morningness/eveningness, and more. During the Follow-ups (6 months to 2 years) and 2 1/2 Year Visit (Final Visit), similar forms were given to participants during the orientation and Saliva Collection Night. Follow-up and final visit forms included: Actigraph Responsibility, Substance Use Questionnaire, Alcohol and Drug Inventory, Drunkenness Questionnaire, What I am Like, YSR (11-18 years old), 6-month follow-up Student Coddington, Horne/Ostberg/Morningness/eveningness, Center for Epidemiological Studies-Depression Scale (CES-D) or Beck Depression Inventory (BDI-Y) (depending on age), RCMAS (What I Think and Feel), Student Medication List and TLFB.
+From 2002 to 2007, there were 6 sessions of data collection that included questionnaires that participants were expected to complete. The first session was the baseline visit, the follow up phase included collections at 6-month intervals with the last at the 2.5 year final visit. During the baseline visit, forms were given to the participant during the consenting period, orientation, saliva collection night, and in-lab. Baseline forms included: Timeline Follow Back (TLFB; both consenting and in-lab), Sleep Questionnaire Assessment of Wakefulness (SQAW), Substance Use Questionnaire, Alcohol and Drug Inventory (ADI), Drunkenness Questionnaire (adult and regular forms), What I am Like Self-Perception questionnaire, Parent and Student Coddington Life Events Questionnaire (CLES), Morningness/eveningness questionnaires, and more. During the Follow-up Sessions 2 through 5 (6 months to 2 years) and 2 1/2 Year Final Session (Session 6), similar forms were given to participants during the orientation and Saliva Collection Night. Follow-up and final visit forms included: Actigraph Responsibility, Substance Use Questionnaire, Alcohol and Drug Inventory, Drunkenness Questionnaire, What I am Like, YSR (11-18 years old), 6-month follow-up Student Coddington, Horne/Ostberg/Morningness/eveningness, Center for Epidemiological Studies-Depression Scale (CES-D) or Beck Depression Inventory (BDI-Y) (depending on age), RCMAS (What I Think and Feel), Student Medication List and TLFB. Neuropsychological testing (The Stroop Color and Word Test; the Rey-Osterrieth Complex Figure Test) was done at the baseline visit (Session 1) and at the final visit (Session 6).
 
 ## Data de-identification
 
-The SandD team reviewed each file to identify any dates or other potentially identifying variables. Dates or other identifiers in file were removed using SPSS 'Drop variables' syntax. The team reviewed files again before saving. File names with identifiers removed are appended with 'deID'. Prior to uploading to the secure NSRR Dropbox all files were reviewed again by the COBRE RA to ensure that no identifying variables remained.
+The lab data manager and COBRE Center research assistant reviewed each file to identify any dates or other potentially identifying variables. Dates or other identifiers in file were removed using SPSS 'Drop variables' syntax. The data manager reviewed files again before saving. File names with identifiers removed are appended with 'deID'. Prior to uploading to the secure NSRR Dropbox all files were reviewed again by the COBRE RA to ensure that no identifying variables remained.
 
 ## Data overview
 
-11 types of data were collected during the data collection process. The data types are described below:
+11 types of data collected during the data collection process are shared. The data types are described below:
 
-- Dems_Scores_dlmo_ETOHhx_season_pds and ALL files: Patient and study information as well as questionnaire answers that were collected at and before baseline.
-- ADI (Consenting): ADI was collected from the questionnaires administered during the consenting period. (Consenting Questionnaire).
-- BDI (Saliva Collection Night): BDI was collected from the questionnaires administered during Saliva Collection Night (Beck Depression Inventory Questionnaire).
-- CESD (Saliva Collection Night): CESD was collected from the questionnaires administered during Saliva Collection Night (CESD Questionnaire).
-- Coddington Parent (Mailed around time of orientation): CodPar was collected from the Coddington Parent Questionnaire that was sent to participants around the time of Orientation.
-- Coddington Student (Saliva Collection Night): Coddington Student was collected from the Coddington Student Questionnaire that was administered to participants during Saliva Collection Night.
-- Mood_Sleepiness (In-Lab, Saliva Collection Night): Mood_Sleepiness was collected from the Mood Sleepiness Questionnaire that was administered to participants both In-Lab and Saliva Collection Night.
-- Neuropsych Testing (In-Lab): Neuropsych testing data was collected using questionnaires during the in-lab visit.
-- RCMAS “What I Think and Feel” (Saliva Collection Night): RCMAS data was collected during Saliva Collection Night in questionnaire format.
-- Scored Actigraphy (Actigraphy monitoring for 1-2.5 weeks prior to in-lab): Scored Actigraphy data was collected from participants previously scored actigraphy data.
+- Dems_Scores_dlmo_ETOHhx_season_pds and ALL files: Participant and study information, including parent ETOH history, as well as questionnaire answers that were collected at baseline, and each subsequent follow up visit completed. This file also includes assessed Dim Light Melatonin Onset for participants for each saliva collection night completed.
+- ADI (Sessions 1-6): ADI was collected from the questionnaires administered during the Session orientation visit (Alcohol and Drug Inventory).
+- BDI (Saliva Collection Night): BDI was collected from the questionnaires administered during Saliva Collection Night (Beck Depression Inventory Questionnaire). Note that item 20 was not included for this population with scoring algorithm adjusted for a 19-item measure.
+- CESD (Saliva Collection Night for DLMO assessment): CESD was collected from the questionnaires administered during Saliva Collection Night (the Center for Epidemiological Studies Depression Questionnaire).
+- Coddington Parent (Mailed around time of orientation): the Coddington Parent Questionnaire that was sent to participants' parent around the time of each Session's Orientation (Coddington Life Events Scale-completed by parent).
+- Coddington Student (Saliva Collection Night): Coddington Student Questionnaire was administered to participants during Saliva Collection Night (Coddington Life Events Scale-completed by participant).
+- Mood_Sleepiness (In-Lab; Saliva Collection Night): Mood_Sleepiness was collected from the brief Mood Sleepiness Questionnaire that was administered to participants multiple times throughout both the In-Lab PSG collection nights (Sessions 1 and 6), and on the Saliva Collection Nights scheduled for all 6 sessions.
+- Neuropsychological Testing (In-Lab): Neuropsychological testing data was collected using questionnaires during the baseline and final in-lab visit: The Stroop Color and Word Test and the Rey-Osterrieth Complex Figure Test. 
+- RCMAS "What I Think and Feel" (Saliva Collection Night): RCMAS data was collected during the Saliva Collection Night in questionnaire format (the Revised Children's Manifest Anxiety Scale).
+- Scored Actigraphy (Actigraphy monitoring for 1-2.5 weeks each session prior to Saliva Collection Night for DLMO assessment): Scored Actigraphy data was collected from participants scored actigraphy data.
 
 ## Access and usage restrictions
 
-The SandD dataset is only available for non-commercial use.
+The Alcohol, Sleep and Circadian Rhythms in Young Humans Study (Sleep and Development Study) dataset is only available for non-commercial use.
 
 ## Citation and acknowledgement
 
@@ -56,7 +117,7 @@ When using this dataset, users must cite the following:
 
 Users must include the following text in any Acknowledgements:
 
-> The Sleep and Development (SandD) study was supported by the National Institute on Alcohol Abuse and Alcoholism grant AA13252. Data sharing was facilitated by the COBRE Center for Sleep and Circadian Rhythms in Child and Adolescent Mental Health (P20GM139743). The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
+> The Alcohol, Sleep and Circadian Rhythms in Young Humans Study (SandD) study was supported by the National Institute on Alcohol Abuse and Alcoholism grant AA13252. Data sharing was facilitated by the COBRE Center for Sleep and Circadian Rhythms in Child and Adolescent Mental Health (P20GM139743). The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## Changelog
 

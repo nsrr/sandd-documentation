@@ -133,7 +133,7 @@ The harmonized-dataset contains many of the most frequently used demographic and
     <tr><td><a href=":variables_path:/nsrr_sex">nsrr_sex</a></td><td>Subject sex</td></tr> 
     <tr><td><a href=":variables_path:/nsrr_race">nsrr_race</a></td><td>Subject race</td></tr> 
     <tr><td><a href=":variables_path:/nsrr_ethnicity">nsrr_ethnicity</a></td><td>Subject ethnicity</td></tr> 
-    <tr><td><a href=":variables_path:/nsrr_ethnicity">nsrr_bmi</a></td><td>Body mass index (BMI)</td></tr> 
+    <tr><td><a href=":variables_path:/nsrr_bmi">nsrr_bmi</a></td><td>Body mass index (BMI)</td></tr> 
   </table>
 
 ### Original datasets and data dictionary

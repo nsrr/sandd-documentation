@@ -138,7 +138,7 @@ The harmonized-dataset contains many of the most frequently used demographic and
 
 ### Original datasets and data dictionary
 
-The [original dataset files](:files_path:/original) represent 11 types of data collected during the data collection process. The data types are described below:
+The [original dataset files](:files_path:/original) represent 10 types of data collected during the data collection process. The data types are described below:
 
 - Dems_Scores_dlmo_ETOHhx_season_pds and ALL files: Participant and study information, including parent ETOH history, as well as questionnaire answers that were collected at baseline, and each subsequent follow up visit completed. This file also includes assessed Dim Light Melatonin Onset for participants for each saliva collection night completed.
 - ADI (Sessions 1-6): ADI was collected from the questionnaires administered during the Session orientation visit (Alcohol and Drug Inventory).

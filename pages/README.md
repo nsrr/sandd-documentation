@@ -115,7 +115,30 @@ The lab data manager and COBRE Center research assistant reviewed each file to i
 
 ## Data overview
 
-11 types of data collected during the data collection process are shared. The data types are described below:
+### Covariate/phenotype datasets (CSV)
+
+The [main covariate dataset files](:files_path:/datasets) (**sandd-dataset-0.1.0.csv** and **sandd-harmonized-dataset-0.1.0.csv**) contain 564 rows each. The first column ([id](:variables_path:/id)) is the unique SandD subject identifier. The [session variable](:variables_path:/session) indicates the timepoint of data collection. The **sandd-dataset** file is a combination of many of the original datasets described below.
+
+Two other datasets (**sandd-mood-dataset-0.1.0.csv** and **sandd-scoredactigraphy-0.1.0.csv**) contain one row per subject-day and are derived from the Mood_Sleepiness and ScoredActigraphy original datasets, respectively.
+
+The dataset columns are described in the accompanying data dictionary files. The **variables** data dictionary file includes column names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated "domain" (e.g., 0=Male, 1=Female), which are described in the **domains** data dictionary file. 
+
+The history of the covariate dataset and data dictionary files have been tracked on GitHub (https://github.com/nsrr/sandd-data-dictionary). 
+
+The harmonized-dataset contains many of the most frequently used demographic and sleep variables. These variables were curated by the NSRR team. Key variables include:
+
+  <table>
+    <tr><td><b>Variable</b></td><td><b>Label</b></td></tr>
+    <tr><td><a href=":variables_path:/nsrr_age">nsrr_age</a></td><td>Subject age</td></tr>
+    <tr><td><a href=":variables_path:/nsrr_sex">nsrr_sex</a></td><td>Subject sex</td></tr> 
+    <tr><td><a href=":variables_path:/nsrr_race">nsrr_race</a></td><td>Subject race</td></tr> 
+    <tr><td><a href=":variables_path:/nsrr_ethnicity">nsrr_ethnicity</a></td><td>Subject ethnicity</td></tr> 
+    <tr><td><a href=":variables_path:/nsrr_ethnicity">nsrr_bmi</a></td><td>Body mass index (BMI)</td></tr> 
+  </table>
+
+### Original datasets and data dictionary
+
+The original datasets, which were 11 types of data collected during the data collection process are shared. The data types are described below:
 
 - Dems_Scores_dlmo_ETOHhx_season_pds and ALL files: Participant and study information, including parent ETOH history, as well as questionnaire answers that were collected at baseline, and each subsequent follow up visit completed. This file also includes assessed Dim Light Melatonin Onset for participants for each saliva collection night completed.
 - ADI (Sessions 1-6): ADI was collected from the questionnaires administered during the Session orientation visit (Alcohol and Drug Inventory).
@@ -130,7 +153,7 @@ The lab data manager and COBRE Center research assistant reviewed each file to i
 
 ## Access and usage restrictions
 
-The Alcohol, Sleep and Circadian Rhythms in Young Humans Study (Sleep and Development Study) dataset is only available for non-commercial use.
+The SandD dataset is only available for non-commercial use.
 
 ## Citation and acknowledgement
 
